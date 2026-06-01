@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Data and heavy binary files
+data/raw/
+data/processed/
+*.zip
+Dataset/
+mri_tumor_run/
+*.keras
+*.onnx
+*.pt
+*.torchscript
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated reports and temp files
+frontend/reports/
+test.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# MLflow runs
+mlruns/
