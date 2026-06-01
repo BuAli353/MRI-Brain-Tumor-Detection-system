@@ -8,7 +8,7 @@ for /f "tokens=5" %%a in ('netstat -aon ^| findstr ":7861" ^| findstr "LISTENING
 timeout /t 2 >nul
 
 echo 🚀 Starting backend server on port 8000...
-start "MRI Backend" cmd /c "python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000"
+start "MRI Backend" cmd /c "python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000"
 
 echo ⏳ Waiting for backend to initialize (8 seconds)...
 timeout /t 8 >nul

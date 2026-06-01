@@ -20,7 +20,7 @@ Start-Sleep -Seconds 2
 
 # Start Backend
 Write-Host "🚀 Starting backend server on port 8000..." -ForegroundColor Green
-$backendProcess = Start-Process -FilePath "python" -ArgumentList "-m uvicorn backend.main:app --host 0.0.0.0 --port 8000" -PassThru
+$backendProcess = Start-Process -FilePath "python" -ArgumentList "-m uvicorn backend.main:app --host 127.0.0.1 --port 8000" -PassThru
 
 # Wait for backend
 Write-Host "⏳ Waiting for backend to initialize (8 seconds)..." -ForegroundColor Cyan
