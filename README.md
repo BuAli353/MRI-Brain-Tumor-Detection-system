@@ -255,7 +255,7 @@ Pituitary         0         1         3       291
 
 **Bu Ali** — Generative AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/muhammadzeeshan)
+https://www.linkedin.com/in/bu-ali-299465341?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
 ---
