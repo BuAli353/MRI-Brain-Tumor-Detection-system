@@ -253,11 +253,10 @@ Pituitary         0         1         3       291
 
 ## 👤 Author
 
-**Muhammad Zeeshan Malik** — Generative AI Engineer
+**Bu Ali** — Generative AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/muhammadzeeshan)
-[![GitHub](https://img.shields.io/badge/GitHub-AImindcrafter-181717?style=flat&logo=github)](https://github.com/AImindcrafter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=flat&logo=google-chrome)](https://aimindcrafter.github.io)
+
 
 ---
 
